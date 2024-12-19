@@ -4,6 +4,7 @@ This is my first Git repository
 - 👀 I’m interested in learning tech and coding.
 - 🌱 I’m currently learning java.
 - 📫 You can reach through Linked in linkedin.com/in/asim-sapkota-382103289
+- I am trying to learn coding
 
 
 
