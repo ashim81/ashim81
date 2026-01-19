@@ -1,5 +1,5 @@
 # Asim Sapkota
-This is my first Git repository
+
 - 👋 Hi, I’m @ashim81
 - 👀 I’m interested in learning tech and coding.
 - 🌱 I’m currently learning java.
